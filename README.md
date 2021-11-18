@@ -6,5 +6,7 @@
 - 🌱 Siempre aprendiendo!
 - 👯 Buscando proyectos en los que colaborar y conocer.
 - ⚡ Fun fact: Me gusta la batería y las plantitas.
+- 💻 Linux User - Currently using Manjaro
+- 💽 Proximamente - Crear mi SO en Arch Linux
 
 ---
