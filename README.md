@@ -1,4 +1,4 @@
-### Bienvenidos a mi Perfil! Soy Viegas - aka ff_
+### Bienvenidos a mi Perfil! Soy Flora Viegas - aka ff_
 
 ## Estudiante de Computadores, apasionada de la IA
 <br />
